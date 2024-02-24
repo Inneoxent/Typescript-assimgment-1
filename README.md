@@ -1,0 +1,1 @@
+"# Typescript-assimgment-1" 
